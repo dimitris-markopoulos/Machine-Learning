@@ -2,15 +2,15 @@
 
 This repository contains my work on classifying MNIST handwritten digits, specifically focusing on distinguishing between digits 3, 5, and 8. I've implemented and compared several classification algorithms:
 
-- Logistic Regression (One-vs-Rest)
+⊳ Logistic Regression (One-vs-Rest)
 
-- Multinomial Regression
+⊳ Multinomial Regression
 
-- Naive Bayes (Gaussian and Bernoulli)
+⊳ Naive Bayes (Gaussian and Bernoulli)
 
-- Linear Discriminant Analysis
+⊳ Linear Discriminant Analysis
 
-- Linear SVM (One-vs-Rest)
+⊳ Linear SVM (One-vs-Rest)
 
 ## Key Findings:
 
@@ -20,8 +20,8 @@ Created detailed confusion matrices and performance visualizations for all model
 
 ## Technologies Used:
 
-- Python (scikit-learn, pandas, numpy)
+⊳ Python (scikit-learn, pandas, numpy)
 
-- Data visualization (matplotlib, seaborn)
+⊳ Data visualization (matplotlib, seaborn)
 
-- Statistical analysis and model evaluation
+⊳ Statistical analysis and model evaluation
