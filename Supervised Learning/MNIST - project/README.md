@@ -12,6 +12,8 @@ This repository contains my work on classifying MNIST handwritten digits, specif
 
 ⊳ Linear SVM (One-vs-Rest)
 
+Furthermore, I have implementented Group LASSO Multinomial Regression to perform feature selection on the 28x28 image and determine which pixels are significant in classification of the image to digits 3, 5, or 8.  I have implemented this strategy with multiple grouping methods and provided results in notebook 2.
+
 ## Key Findings:
 
 Achieved 93.8% accuracy with Multinomial Regression
