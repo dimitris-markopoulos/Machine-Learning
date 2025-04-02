@@ -4,17 +4,19 @@ Welcome to the **Machine Learning** repository! This repository is a work in pro
 
 ## 📌 Repository Overview
 This repository includes (/planning adding in the future):
-- **Supervised Learning**: Regression, Classification, Decision Trees, SVMs, etc.
-- **Unsupervised Learning**: Clustering, PCA, Anomaly Detection.
-- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers.
-- **Reinforcement Learning**: Q-Learning, Policy Gradient Methods.
-- **Financial Machine Learning**: Predictive models for financial markets.
-- **Statistical Modeling**: Bayesian methods, Hypothesis Testing, and more.
+**Supervised Learning**: Regression, Classification, Decision Trees, SVMs, etc.
+**Unsupervised Learning**: Clustering, PCA, Anomaly Detection.
+**Unsupervised Learning**:
+  - Clustering: K-Means, Hierarchical Clustering, DBSCAN  
+  - Dimensionality Reduction: PCA, t-SNE, UMAP  
+  - Anomaly Detection: PYOD models (LOF, HBOS, AutoEncoders, etc.), Isolation Forest, One-Class SVM
+**Deep Learning**: Neural Networks, CNNs, RNNs, Transformers.
+**Reinforcement Learning**: Q-Learning, Policy Gradient Methods.
 
-## 🔧 Technologies Used
-- **Programming Language**: Python
-- **Libraries & Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, etc.
-- **Tools**: Jupyter Notebook, Google Colab, GitHub
+## 🛠️ Tools
+- **Jupyter Notebook**: For all development and documentation.
+- **Google Colab**: For GPU-accelerated model training and experimentation.
+- **GitHub**: For version control, collaboration, and project organization.
 
 ## 📂 Project Structure (Plan)
 ```
