@@ -20,19 +20,15 @@ This repository includes (/planning adding in the future):
 ```
 MachineLearning/
 │── Supervised_Learning/
-│   ├── Regression/
-│   ├── Classification/
+│   ├── Project_1/
+│   ├── .../
+│   ├── Project_K/
 │── Unsupervised_Learning/
-│── Deep_Learning/
-│── Reinforcement_Learning/
-│── Financial_ML/
-│── Statistical_Modeling/
+│   ├── Project_1/
+│   ├── .../
+│   ├── Project_K/
+│── Deep_Learning/ #planning
+│── Reinforcement_Learning/ #planning
 │── README.md
 ```
 
-## 📈 Current Projects
-- **Supervised ML using MNIST dataset (Image Classification)**
-- ...
-
-## 📢 Contributions
-Contributions are welcome! Feel free to open an issue or submit a pull request with improvements, new implementations, or bug fixes.
