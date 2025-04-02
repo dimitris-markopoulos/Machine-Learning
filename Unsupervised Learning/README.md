@@ -28,9 +28,3 @@ Here’s what I plan to build and include over time:
 
 Each project will be modular, well-commented, and accompanied by a detailed Jupyter Notebook explaining the process.
 
-## 👤 Authors
-
-- Dimitris Markopoulos  
-  - [Columbia University](mailto:dimitris.markopoulos@columbia.edu)  
-  - [LinkedIn](https://www.linkedin.com/in/dimitris-markopoulos)
-
