@@ -18,7 +18,7 @@ This repository includes (/planning adding in the future):
 - **Google Colab**: For GPU-accelerated model training and experimentation.
 - **GitHub**: For version control, collaboration, and project organization.
 
-## 📂 Project Structure (Plan)
+## 📂 Repository Structure
 ```
 MachineLearning/
 │── Supervised_Learning/
