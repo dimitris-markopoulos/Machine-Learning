@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-Welcome to the **Machine Learning** repository! This repository is a work in progress and contains (or will contain) various machine learning projects, algorithms, and implementations, covering topics in supervised learning, unsupervised learning, deep learning, and more. The goal is to provide well-documented and structured implementations of ML techniques, primarily using Python.
+Welcome to the **Machine Learning** repository! This repository is a work in progress and contains (or will contain) various machine learning projects, algorithms, and implementations, covering topics in supervised learning, unsupervised learning, deep learning, and more. The goal is to provide well-documented and structured implementations of ML techniques using Python.
 
 ## 📌 Repository Overview
 This repository includes (/planning adding in the future):
